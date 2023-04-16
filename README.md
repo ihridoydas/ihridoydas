@@ -6,7 +6,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ihridoydas&label=Profile%20views&color=0e75b6&style=flat" alt="ihridoydas" /> </p>
 
-- 🔭 I’m currently working on **Jetpack Compose**
+- 🔭 I’m currently working on **Jetpack Compose and Kotlin Multiplatform.**
 
 - 🌱 I’m currently learning **Jetpack Compose,AR&VR,Flutter,SwiftUI,AI**
 
