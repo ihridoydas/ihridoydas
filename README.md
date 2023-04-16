@@ -39,9 +39,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ihridoydas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ihridoydas" /></a></p><br><br><br>
 
-<p align="left">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" />
-     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ihridoydas&show_icons=true&locale=en" alt="ihridoydas" />
+<p align="left" width: 100%>
+    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" />
+     <img height="100" src="https://github-readme-stats.vercel.app/api?username=ihridoydas&show_icons=true&locale=en" alt="ihridoydas" />
 </p>
 
 
