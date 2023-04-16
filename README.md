@@ -1,4 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <h1 align="center">Hi 👋, I'm Hridoy Chandra Das</h1>
 <h3 align="center">A passionate Mobile developer from Japan.</h3>
 <p align="center"> 
@@ -9,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihridoydas" alt="ihridoydas" /></a> </p>
 
-- 🔭 I’m currently working on **Qualias Systems**
+- 🔭 I’m currently working on **Jetpack Compose**
 
 - 🌱 I’m currently learning **Jetpack Compose,AR&VR,Flutter,SwiftUI,AI**
 
@@ -17,20 +16,20 @@
 
 - 📝 I regularly write articles on [https://ihridoydas.github.io/hridoy/blog.html](https://ihridoydas.github.io/hridoy/blog.html)
 
-- 💬 Ask me about **Jetpack Compose,AR**
+- 💬 Ask me about **Kotlin,Jetpack Compose,AR,SwiftUI,Flutter and Web Dev**
 
-- 📫 How to reach me **hridoycseboy@gmail.com**
+- 📫 How to reach me [Contact](https://ihridoydas.github.io/hridoy/contact.html) 
 
 - 📄 Know about my experiences [https://ihridoydas.github.io/hridoy/resume.html](https://ihridoydas.github.io/hridoy/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ihridoydas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihridoydas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihridoydas/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hridoy-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hridoy-das" height="30" width="40" /></a>
 <a href="https://fb.com/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihridoydas/" height="30" width="40" /></a>
-<a href="https://instagram.com/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihridoydas/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihridoydas/" height="30" width="40" /></a>
 <a href="https://medium.com/@ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ihridoydas/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hridoy-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hridoy-das" height="30" width="40" /></a>
+<a href="https://instagram.com/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihridoydas/" height="30" width="40" /></a>
+<a href="https://twitter.com/ihridoydas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihridoydas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,12 +37,13 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ihridoydas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ihridoydas" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ihridoydas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ihridoydas" /></a></p><br><br><br>
 
+<p align="left">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" />
+     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ihridoydas&show_icons=true&locale=en" alt="ihridoydas" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihridoydas&show_icons=true&locale=en" alt="ihridoydas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihridoydas&" alt="ihridoydas" /></p>
 
