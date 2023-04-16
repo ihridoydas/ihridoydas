@@ -40,10 +40,10 @@
 <p><a href="https://www.buymeacoffee.com/ihridoydas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ihridoydas" /></a></p><br><br><br>
 
 <p align="left" width: 100%>
-    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" />
-     <img height="100" src="https://github-readme-stats.vercel.app/api?username=ihridoydas&show_icons=true&locale=en" alt="ihridoydas" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" />
+     <img height="120" src="https://github-readme-stats.vercel.app/api?username=ihridoydas&show_icons=true&locale=en" alt="ihridoydas" />
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihridoydas&" alt="ihridoydas" /></p>
+<p><img align="center" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=ihridoydas&" alt="ihridoydas" /></p>
 
