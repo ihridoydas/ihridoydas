@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridoy Chandra Das</h1>
 <h3 align="center">A passionate Mobile developer from Japan.</h3>
 <p align="center"> 
-<img align="center" alt="Mobie Developer"  width: 100%; height: auto; src="hridoyAnimation.gif">
+<img align="center" alt="Mobie Developer"  width="100%"; height="400"; src="hridoyAnimation.gif">
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ihridoydas&label=Profile%20views&color=0e75b6&style=flat" alt="ihridoydas" /> </p>
@@ -39,9 +39,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ihridoydas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ihridoydas" /></a></p><br><br><br>
 
-<p align="left" width: 100%>
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" />
-     <img height="120" src="https://github-readme-stats.vercel.app/api?username=ihridoydas&show_icons=true&locale=en" alt="ihridoydas" />
+<p align="left" width="100%">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" />
+     <img height="150" src="https://github-readme-stats.vercel.app/api?username=ihridoydas&show_icons=true&locale=en" alt="ihridoydas" />
 </p>
 
 
