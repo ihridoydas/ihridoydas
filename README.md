@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridoy Chandra Das</h1>
 <h3 align="center">A passionate Mobile developer from Japan.</h3>
 <p align="center"> 
-<img align="center" alt="Mobie Developer"  width="950"; height="400"; src="hridoyAnimation.gif">
+<img align="center" alt="Mobie Developer"  width:100%; height:auto; src="hridoyAnimation.gif">
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ihridoydas&label=Profile%20views&color=0e75b6&style=flat" alt="ihridoydas" /> </p>
