@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EAF7ED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Hridoy+Chandra+Das" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://ihridoydas.github.io/hridoy/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EAF7ED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Hridoy+Chandra+Das" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">A passionate Mobile developer from Japan.</h3>
 <p align="center"> 
