@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=400&lines=Hi+there!+I+am+Hridoy+Chandra+Das+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EAF7ED&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hridoy+Chandra+Das)](https://git.io/typing-svg)
 <h3 align="center">A passionate Mobile developer from Japan.</h3>
 <p align="center"> 
 <img align="center" alt="Mobie Developer"  width:100%; height:auto; src="dev.gif">
