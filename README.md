@@ -19,7 +19,7 @@
 
 - 📫 How to reach me [Contact](https://ihridoydas.github.io/hridoy/contact.html) 
 
-- 📄 Know about my experiences [https://ihridoydas.github.io/hridoy/form.html](https://ihridoydas.github.io/hridoy/form.html)
+- 📄 Know about my experiences [https://ihridoydas.github.io/hridoy/resumecheck.html](https://ihridoydas.github.io/hridoy/resumecheck.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
