@@ -23,12 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihridoydas/" height="30" width="40" /></a>
+<a href="https://www.wantedly.com/id/ihridoydas/" target="blank"><img align="center" src="https://github.com/ihridoydas/ihridoydas/assets/32935576/c67faf5a-fa26-4cce-accb-0b24130dce2a" alt="https://www.wantedly.com/id/ihridoydas/" height="30" width="30" /></a>
+<a href="https://qiita.com/ihridoydas/" target="blank"><img align="center" src="https://github.com/ihridoydas/ihridoydas/assets/32935576/81d466f0-e367-498b-b9bf-2dc6eacea922" alt="https://qiita.com/ihridoydas/" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihridoydas/" height="30" width="40" /></a>
 <a href="https://medium.com/@ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ihridoydas/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8241702/hridoy-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hridoy-das" height="30" width="40" /></a>
 <a href="https://instagram.com/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihridoydas/" height="30" width="40" /></a>
 <a href="https://twitter.com/ihridoydas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihridoydas" height="30" width="40" /></a>
+<a href="https://fb.com/ihridoydas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihridoydas/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,8 +38,8 @@
   <!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihridoydas" alt="ihridoydas" /></a> </p>
 -->
-<p align="left" width="100%">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" />
+<!-- <p align="left" width="100%">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihridoydas&show_icons=true&locale=en&layout=compact" alt="ihridoydas" /> -->
     
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ihridoydas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ihridoydas" /></a></p><br><br><br>
